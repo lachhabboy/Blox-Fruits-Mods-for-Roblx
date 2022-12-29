@@ -1,0 +1,129 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-7114471897201453/6499033587",
+        "InterstitialAdmob": "ca-app-pub-7114471897201453/7940656500",
+        "NativeAdmob": "ca-app-pub-7114471897201453/2723440102",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+
+		"maxBanner": "f7a5525108c00ac0A",
+		"maxInterstitial": "5fa0efbeea673f05A",
+		"maxNative": "bf83265395b54ba8A",
+		
+		"ironsource_appKey": "",
+		
+		"unity_game_id": "5096173",
+		"unity_test": false,
+		"unity_banner": "Banner_Android",
+		"unity_interstitial": "Interstitial_Android",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "",
+        "ImageBannerURL" : ""
+		
+      },
+
+    "items": [
+      {
+        "title": "Play Mod Blox Fruits Instructions",
+        "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e6/Site-logo.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "For fans of Mod Blox Fruits Instructions, playing Mod Blox Fruits Instructions on PC with MuMu Player, a bigger screen with better graphics can dramatically increase your immersive experience.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Play Mod Blox Fruits Instructions",
+        "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e6/Site-logo.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "For fans of Mod Blox Fruits Instructions, playing Mod Blox Fruits Instructions on PC with MuMu Player, a bigger screen with better graphics can dramatically increase your immersive experience.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Play Mod Blox Fruits Instructions",
+        "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e6/Site-logo.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "For fans of Mod Blox Fruits Instructions, playing Mod Blox Fruits Instructions on PC with MuMu Player, a bigger screen with better graphics can dramatically increase your immersive experience.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Play Mod Blox Fruits Instructions",
+        "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e6/Site-logo.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "For fans of Mod Blox Fruits Instructions, playing Mod Blox Fruits Instructions on PC with MuMu Player, a bigger screen with better graphics can dramatically increase your immersive experience.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+     {
+        "title": "Play Mod Blox Fruits Instructions",
+        "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e6/Site-logo.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "For fans of Mod Blox Fruits Instructions, playing Mod Blox Fruits Instructions on PC with MuMu Player, a bigger screen with better graphics can dramatically increase your immersive experience.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Play Mod Blox Fruits Instructions",
+        "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e6/Site-logo.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "For fans of Mod Blox Fruits Instructions, playing Mod Blox Fruits Instructions on PC with MuMu Player, a bigger screen with better graphics can dramatically increase your immersive experience.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Play Mod Blox Fruits Instructions",
+        "image": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e6/Site-logo.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "For fans of Mod Blox Fruits Instructions, playing Mod Blox Fruits Instructions on PC with MuMu Player, a bigger screen with better graphics can dramatically increase your immersive experience.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      }
+    ]
+
+  }
+}
