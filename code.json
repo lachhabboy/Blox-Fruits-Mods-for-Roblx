@@ -4,7 +4,7 @@
       {
         "BannerAd": "unity",
 		"InterstitialAd": "unity",
-        "NativeAd": "unity",
+        "NativeAd": "admob",
 		
 		"BannerAdmob": "ca-app-pub-7114471897201453/6499033587",
         "InterstitialAdmob": "ca-app-pub-7114471897201453/7940656500",
